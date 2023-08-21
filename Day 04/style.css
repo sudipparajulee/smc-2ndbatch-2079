@@ -1,0 +1,15 @@
+.heading{
+    color: blue;
+}
+
+.description{
+    color: red;
+    background-color: yellow;
+}
+
+.mydiv{
+    background-color: blue;
+    color: white;
+    width: 400px;
+    padding: 10px;
+}

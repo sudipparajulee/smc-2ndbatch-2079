@@ -1,0 +1,8 @@
+.mydiv1, .mydiv2, .mydiv3, .mydiv4{
+    background-color: blue;
+    color: white;
+    width: 23%;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+}
