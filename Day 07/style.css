@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    background-color: blue;
+    padding: 10px;
+}
+
+.menu{
+    list-style-type: none;
+    text-align: right;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.menu a:hover {
+    background-color: white;
+    color: blue;
+}
