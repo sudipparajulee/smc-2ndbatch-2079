@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+.service-container{
+    display: flex;
+}
+
+.service{
+    background-color: blue;
+    color: white;
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
