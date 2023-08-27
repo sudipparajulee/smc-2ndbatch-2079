@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.navbar{
+    background-color: blue;
+    color: white;
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu{
+    list-style-type: none;
+    text-align: right;
+}
+
+.menu li{
+    display: inline;
+    padding: 10px;
+}
+
+.menu li a{
+    color: white;
+    text-decoration: none;
+}
