@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding: 10px;
+}
+
+.navbar img{
+    height: 100px;
+}
+
+.menu li{
+    display: inline;
+}
