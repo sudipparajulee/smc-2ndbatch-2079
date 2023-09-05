@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+}
+
+.service-section{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.service-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.related{
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.service{
+    background-color: lightgrey;
+    padding: 15px;
+    border-radius: 10px;
+}
