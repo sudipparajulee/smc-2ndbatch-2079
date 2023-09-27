@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(70, 70, 166);
+}
+
+.login-form{
+    background-color: white;
+    width: 500px;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.login-form h1{
+    text-align: center;
+}
+
+.login-form input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(182, 182, 182);
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.login-form input[type="submit"]{
+    background-color: rgb(70, 70, 166);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.login-form input:focus{
+    outline: 1px solid blue;
+}
