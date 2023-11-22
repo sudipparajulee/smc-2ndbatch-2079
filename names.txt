@@ -1,0 +1,45 @@
+A. Booking Website 
+	1. Apik Adhikari
+	2. Rijan Bhandari
+	3. Diwas Sharma
+	4. Kosish Pariyar
+
+B. Clothing Store 
+	1. Arya Chalise
+	2. Suvekshya Ghimire
+	3. Dipika Adhikari
+	4. Nirjala Lamichhane
+
+C. School Website
+	1. Nishant Dhamala
+	2. Rijan Subedi
+	3. Janak Kafle
+	4. Keshav Khanal
+
+D. Gym Website
+	1. Pradeep Chaudhary
+	2. Puja Bomjan
+	3. Suhani Acharya
+	4. Abishkar Bhandari
+
+E. Travel Website
+	1. Anish Chaudhary
+	2. Sameer Gurung
+	3. Darshan Adhikari
+	4. Deepesh Poudel
+
+F. News Website
+	1. Rabin Dhakal
+	2. Sujal Dhital
+	3. Om Prakash Kandel
+	4. Preetam Gurung
+
+Websites
+1. Electronics E-Commerce : -https://hamroelectronics.com.np
+2. Booking : -https://mmatnepal.com/
+3. School Website: smc
+4. Gym Website: ----
+5. Travel Website: https://pangolintravels.com/
+6. News Website: https://nepalserofero.com/
+
+Deadline: 29th Nov, 2023
